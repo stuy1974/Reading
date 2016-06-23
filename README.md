@@ -6,6 +6,9 @@ GitHub reading
 - Understanding the GitHub Flow: https://guides.github.com/introduction/flow/
 - 
 
+Azure/Cloud
+- Azure Websites & Webjobs: https://www.pluralsight.com/courses/windows-azure-websites-web-jobs
+
 Architectural
 1. What is blue/green deployment?
 2. Who is Jez Humble?
