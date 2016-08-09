@@ -27,6 +27,10 @@ Philosophy
 - Living with purpose (Eric Meijer): https://beyondvelocity.wordpress.com/2016/09/19/one-hacker-way-%E2%80%A2-living-with-purpose/
 - The antithesis to agile (Eric Meijer): https://beyondvelocity.wordpress.com/2016/09/19/one-hacker-way-%E2%80%A2-erik-meijer/
 
+Strategic
+- Budget for Technical debt reduction: http://www.gregerwikstrand.com/technical-debt-reduction/
+- Why organistional health trumps everything in business: http://www.goodreads.com/book/show/12975375-the-advantage
+
 Questions/Research
 1. What is blue/green deployment?
 2. Who is Jez Humble?
