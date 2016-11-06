@@ -8,6 +8,10 @@ Progressive Web Apps (PWA)
 - Example:
   - Voice recorder: https://voice-memos.appspot.com/
   - https://aerotwist.com/blog/voice-memos/
+  
+  
+Service Workers
+- Are ServiceWorkers ready??? https://jakearchibald.github.io/isserviceworkerready/
 
   
 GitHub reading
